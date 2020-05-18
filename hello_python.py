@@ -21,3 +21,10 @@ print(" imooc ".rstrip())
 
 #字典，列表，元组，字符串
 print(type(set('123')))
+
+print(0 == False )
+print(1 == True )
+"""
+0 ---> False
+1 ---> True
+"""

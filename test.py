@@ -25,3 +25,6 @@ d1 = datetime(2018,10,15)
 d2 = datetime(2018,10,16)
 
 print(d2 > d1)
+
+a = (x for x in range(8))
+print(len(a))
